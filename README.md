@@ -1,5 +1,5 @@
 
-# File Upload with Retrofit
+# File Upload with Retrofit Multiparts
 
 This project demonstrates how to upload files using Retrofit in an Android app. It includes multipart form-data handling, file permissions, and logging interceptor integration.
 
